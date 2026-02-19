@@ -1,4 +1,4 @@
-﻿using Oxide.Core.Plugins;
+using Oxide.Core.Plugins;
 using Oxide.Core.Unity.Logging;
 
 namespace Oxide.Core.Unity.Plugins

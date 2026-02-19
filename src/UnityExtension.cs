@@ -1,7 +1,7 @@
-﻿using Oxide.Core.Extensions;
-using Oxide.Core.Unity.Plugins;
 using System;
 using System.Reflection;
+using Oxide.Core.Extensions;
+using Oxide.Core.Unity.Plugins;
 
 namespace Oxide.Core.Unity
 {

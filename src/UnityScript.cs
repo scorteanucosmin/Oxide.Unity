@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Reflection;
 using UnityEngine;
 
@@ -10,7 +10,7 @@ namespace Oxide.Core.Unity
     public class UnityScript : MonoBehaviour
     {
         public static GameObject Instance { get; private set; }
-        
+
         public static float RealtimeSinceStartup { get; private set; }
 
         public static void Create()

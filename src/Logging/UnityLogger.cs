@@ -1,4 +1,4 @@
-﻿using System.Threading;
+using System.Threading;
 using UnityEngine;
 using Logger = Oxide.Core.Logging.Logger;
 using LogType = Oxide.Core.Logging.LogType;
